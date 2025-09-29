@@ -43,7 +43,9 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
+
 <img width="1018" height="880" alt="image" src="https://github.com/user-attachments/assets/fa619ad9-3953-4d62-8872-19ea71108eca" />
+
 <img width="935" height="248" alt="image" src="https://github.com/user-attachments/assets/762df08c-6a41-4a8d-97b2-fca9e8703053" />
 
 
@@ -55,9 +57,11 @@ sudo dsnifff
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
+
 <img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/6cc98ba8-574f-4954-a9a6-c0501927b5f6" />
 
 ## Ettercap:
+
 <img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/e4ee0610-db55-432c-82b4-8958c83545ff" />
 
 
